@@ -1,17 +1,19 @@
 # JPR Electrical Contractors Pty Ltd
 
-> Gold Coast electrical contractor (QLD Lic 91131, ABN 98 698 175 316). Commercial fitouts, civil/URD reticulation, mechanical services electrical, and high-end residential across SEQ. Not affiliated with JPR Electrical (Brisbane) or J&P Richardson Industries.
+> Gold Coast based electrical contractor (QLD Lic 91131, ABN 98 698 175 316) leading with mechanical services electrical for HVAC/mechanical contractors from Brisbane through the Gold Coast to Byron Bay. AC/FCU/CU power, controls, MSSBs, VSDs, isolators, DDC/BMS interfaces and plant rooms, with commercial, civil/UG, high-end residential and solar as secondary services.
 
 ## Key pages
 
 - Home: https://jprelectricalco.com.au/
-- About: https://jprelectricalco.com.au/about/
-- Services: https://jprelectricalco.com.au/services/
 - Mechanical services electrical: https://jprelectricalco.com.au/services/mechanical-electrical/
+- Services: https://jprelectricalco.com.au/services/
+- About: https://jprelectricalco.com.au/about/
 - Contact: https://jprelectricalco.com.au/contact/
 - Projects: https://jprelectricalco.com.au/projects/
 
 ## Licences
 
+- Legal name: JPR Electrical Contractors Pty Ltd
+- Address: 4/16 Elizabeth Avenue, Broadbeach QLD 4218
 - QLD Electrical Contractor Licence: 91131
 - ABN: 98 698 175 316

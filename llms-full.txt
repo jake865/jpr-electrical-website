@@ -2,22 +2,23 @@
 
 ## Who we are
 
-JPR Electrical Contractors Pty Ltd is a Gold Coast electrical contractor (QLD Lic 91131, ABN 98 698 175 316). We do commercial fitouts, civil/URD reticulation, mechanical services electrical, and high-end residential across South-East Queensland (SEQ).
+JPR Electrical Contractors Pty Ltd is a Gold Coast based electrical contractor (QLD Lic 91131, ABN 98 698 175 316). Mechanical services electrical is the lead offer: HVAC power and controls for mechanical contractors, builders and project managers from Brisbane through the Gold Coast to Byron Bay.
+
+Typical mechanical electrical scope includes AC, FCU and CU power, MSSBs, VSDs, isolators, DDC/BMS interfaces, chillers, pumps, fans, exhaust systems, plant room containment, testing and commissioning. Commercial fitouts, civil/URD reticulation, high-end residential and solar/battery remain secondary divisions.
 
 **Disambiguation:** Not affiliated with JPR Electrical (Brisbane) or J&P Richardson Industries.
 
-## Divisions
+## Services
 
-1. Commercial & Industrial — retail, hospitality, office fitouts, base-build, switchboards
-2. Civil, Underground & Infrastructure — subdivision reticulation, street lighting, pit & pipe
-3. Mechanical Services Electrical — plant room power, controls, cable support, testing
+1. Mechanical Services Electrical — AC/FCU/CU power, controls, MSSBs, VSDs, isolators, DDC/BMS interfaces, plant rooms, testing and commissioning
+2. Commercial & Industrial — retail, hospitality, office fitouts, base-build, switchboards
+3. Civil, Underground & Infrastructure — subdivision reticulation, street lighting, pit & pipe
 4. High-End Residential — custom homes, architectural lighting, automation, EV charging
 5. Solar & Battery — Tier-1 solar, Tesla Powerwall, Sungrow storage
 
 ## Name, address, phone (NAP)
 
 - Legal name: JPR Electrical Contractors Pty Ltd
-- Base: Gold Coast, Queensland
 - Address: 4/16 Elizabeth Avenue, Broadbeach QLD 4218
 - Phone: 0407 688 699
 - Email: jake@jprelectricalco.com.au
@@ -26,16 +27,16 @@ JPR Electrical Contractors Pty Ltd is a Gold Coast electrical contractor (QLD Li
 
 ## Hours
 
-- Monday–Friday: 07:30–17:00
-- Saturday: 07:30–12:00
+- Monday-Friday: 07:30-17:00
+- Saturday: 07:30-12:00
 - Sunday: Closed
 
 ## Key pages
 
 - https://jprelectricalco.com.au/
-- https://jprelectricalco.com.au/about/
-- https://jprelectricalco.com.au/services/
 - https://jprelectricalco.com.au/services/mechanical-electrical/
+- https://jprelectricalco.com.au/services/
+- https://jprelectricalco.com.au/about/
 - https://jprelectricalco.com.au/contact/
 - https://jprelectricalco.com.au/projects/
 
@@ -46,4 +47,4 @@ JPR Electrical Contractors Pty Ltd is a Gold Coast electrical contractor (QLD Li
 
 ## Contact
 
-Phone 0407 688 699 or email jake@jprelectricalco.com.au for quotes. Send drawings for fixed-price scope.
+Phone 0407 688 699 or email jake@jprelectricalco.com.au for quotes. Send mechanical schedules and drawings for fixed-price scope.
